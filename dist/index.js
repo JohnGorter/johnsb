@@ -12,4 +12,4 @@ Object.defineProperty(exports, "Button", {
   }
 });
 
-var _Button = _interopRequireDefault(require("../stories/Button"));
+var _Button = _interopRequireDefault(require("../stories/Button.jsx"));

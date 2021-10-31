@@ -1,2 +1,2 @@
-import Button from '../stories/Button';
+import Button from '../stories/Button.jsx';
 export { Button }
